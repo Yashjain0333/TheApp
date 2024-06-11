@@ -1,1 +1,1 @@
-Testing the app
+Testing the app.
