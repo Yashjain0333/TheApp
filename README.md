@@ -1,2 +1,1 @@
-# TheApp
-It's the app.
+Testing the app
